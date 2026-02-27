@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+matplotlib
+koreanize-matplotlib
+requests
